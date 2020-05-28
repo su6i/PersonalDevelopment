@@ -8,3 +8,4 @@ Good to read **Books**:
 4. Good to Great by James C. Collins
 5. Speed Train to Wealth by Darren Hardy
 6. Think and Grow Rich by Napoleon Hill 
+7. The 7 Habits of Highly Effective People by Stephen Covey
