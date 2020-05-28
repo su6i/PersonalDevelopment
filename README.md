@@ -1,4 +1,4 @@
-# PersonalDevelopment
+# Personal Development
 All things you need to improve in your life as a Computer Scientist who love Finance and Fintech.
 
 Good to read **Books**:
