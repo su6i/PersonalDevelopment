@@ -7,7 +7,4 @@ Good to read **Books**:
 3. Rich Dad Poor Dad by Robert T. Kiyosaki    
 4. Good to Great by James C. Collins
 5. Speed Train to Wealth by Darren Hardy
-
-
-
-
+6. Think and Grow Rich by Napoleon Hill 
