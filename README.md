@@ -11,3 +11,4 @@ Good to read **Books**:
 7. The Instant Millionaire: A Tale of Wisdom and Wealth by Mark Fisher
 8. The Disciplined Trader: Developing Winning Attitudes by Mark Douglas
 9. The 7 Habits of Highly Effective People by Stephen Covey
+10. Overcoming 7 Deadly Sins of Trading by Ruth Roosevelt
