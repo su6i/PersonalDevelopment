@@ -1,6 +1,8 @@
 # Personal Development
 All things you need to improve in your life as a Computer Scientist who love Finance and Fintech.
 
+[نسخه‌ی پارسی](https://github.com/su6i/PersonalDevelopment/blob/master/ReadMePersian.md)
+
 Good to read **Books**:
 1. [The Richest Man in Babylon](https://github.com/su6i/PersonalDevelopment/blob/master/Books/TheRichestManInBabylon/TheRichestManInBabylon.pdf) by George S. Clason     
 2. The Compound Effect by Darren Hardy     
